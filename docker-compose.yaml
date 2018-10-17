@@ -1,0 +1,7 @@
+version: '3'
+
+services:
+  server:
+    image: ubuntu
+    stdin_open: true
+    tty: true
